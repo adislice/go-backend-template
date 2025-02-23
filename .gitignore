@@ -1,0 +1,40 @@
+# Dev build
+build/
+tmp/
+out/
+
+# Test
+*.out
+
+# Environment variables
+.env
+
+# Binaries for programs and plugins
+
+*.exe
+
+*.exe~
+
+*.dll
+
+*.so
+
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# env
+.env
+
+# uploads dir
+uploads/
+
+# log
+*.log
+
+# storage
+storage/
+
+# vscode
+.vscode
